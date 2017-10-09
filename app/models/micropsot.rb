@@ -1,0 +1,2 @@
+class Micropsot < ApplicationRecord
+end
